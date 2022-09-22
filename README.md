@@ -6,10 +6,4 @@
 ![Screenshot (274)](https://user-images.githubusercontent.com/91388754/149665434-8725301d-a6fa-426d-ba3c-52c6e00d85fb.png)
 
 
-# ⚠️ Essential Packages 
-* custom_navigation_bar: ^0.8.2
-
-## Links
-* [My Socials](https://znap.link/CodeWithFlexz)
-* [Youtube channel](https://www.youtube.com/channel/UCLVrYXt3SL9rT-IcDmgU9Wg)
-* [Instagram](https://instagram.com/codewithflexz)
+* [Instagram](https://instagram.com/darealdr808)
